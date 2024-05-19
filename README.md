@@ -1,5 +1,6 @@
-# SafeShare-
-Privacy Preserving File Sharing Platform
+# SafeShare- Privacy Preserving File Sharing Platform
+
+++++Created By ---- *Sandaru T. H. K. - IT21261282* , *Kamalhewa Y. U. - IT21299520*++++
 
 SafeShare is an innovative Privacy Preserving File Sharing Platform that ensures safe and efficient file sharing among users. To ensure the confidentiality, integrity, and availability of shared data, this system uses strong encryption techniques, especially the AES (Advanced Encryption Standard) algorithm, secure user authentication systems, and comprehensive activity monitoring. Users may register, log in, and upload files, designating the recipients who have the sole permission to alter them. For further protection upon login, the platform uses two-factor authentication (2FA), which sends a One-Time Password (OTP) to users' emails. Additionally, machine learning methods are used to detect abnormalities and improve security. This article discusses the system's design architecture, data modeling, implementation details, and security aspects. It also covers user authentication, file encryption and decryption, and the method for uploading and sharing data. Extensive testing and assessment have shown that SafeShare offers a safe and user-friendly environment for privacy-preserving file sharing. Future enhancements will focus on adding more advanced security measures and improving the overall user experience.
 
